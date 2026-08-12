@@ -2,10 +2,6 @@
 
 An interactive **Pizza Sales Performance Dashboard** built to analyze sales, orders, product performance, and customer ordering patterns. The dashboard provides a clear overview of key business metrics and helps identify top- and low-performing pizzas, revenue trends, and sales patterns.
 
-## 📊 Dashboard Preview
-
-![Pizza Sales Performance Dashboard](<img width="1297" height="727" alt="DASHBOARD IMAGE" src="https://github.com/user-attachments/assets/b6c637c8-fb6d-4fc5-b555-e63ab1022dc3" />
-)
 
 ## 🎯 Project Objective
 
