@@ -4,7 +4,8 @@ An interactive **Pizza Sales Performance Dashboard** built to analyze sales, ord
 
 ## 📊 Dashboard Preview
 
-![Pizza Sales Performance Dashboard](dashboard.png)
+![Pizza Sales Performance Dashboard](<img width="1297" height="727" alt="DASHBOARD IMAGE" src="https://github.com/user-attachments/assets/b6c637c8-fb6d-4fc5-b555-e63ab1022dc3" />
+)
 
 ## 🎯 Project Objective
 
